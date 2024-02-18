@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title>Peter Nylander's Blog</title>
+		<link>https://penyland.github.io/</link>
+		<description>.NET, C#, DevOps, Open Source, Azure, Gaming, Heavy Metal and Beer!</description>
+		<copyright>© Peter Nylander 2024</copyright>
+		<pubDate>Sun, 18 Feb 2024 16:52:54 GMT</pubDate>
+		<lastBuildDate>Sun, 18 Feb 2024 16:52:54 GMT</lastBuildDate>
+		<item>
+			<title>Hello!</title>
+			<link>https://penyland.github.io/posts/2024/2024-02-11-hello</link>
+			<description>A tale of passion and code! And beer and heavy metal!</description>
+			<author>penyland</author>
+			<guid>https://penyland.github.io/posts/2024/2024-02-11-hello</guid>
+			<pubDate>Sun, 11 Feb 2024 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;h1 id="hello-and-welcome-to-my-blog"&gt;Hello and welcome to my blog&lt;/h1&gt;
+&lt;p&gt;My name's is Peter Nylander and I'm a software engineer and a solution architect!&lt;/p&gt;
+&lt;p&gt;I have been working with software development for over 20 years. I have worked with many different technologies and platforms, but I have always had a passion for Microsoft technologies.&lt;/p&gt;
+&lt;p&gt;On this blog I will write about my thoughts and ideas about software development and architecture.
+I will also share some of my projects and code snippets and what I have learned from on the way.&lt;/p&gt;
+&lt;p&gt;I hope you will find something interesting here and that you will come back for more!&lt;/p&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+	</channel>
+</rss>

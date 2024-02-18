@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>https://penyland.github.io/</id>
+	<title>Peter Nylander's Blog</title>
+	<link rel="self" href="https://penyland.github.io/" />
+	<rights>© Peter Nylander 2024</rights>
+	<updated>2024-02-18T16:52:54Z</updated>
+	<subtitle>.NET, C#, DevOps, Open Source, Azure, Gaming, Heavy Metal and Beer!</subtitle>
+	<entry>
+		<id>https://penyland.github.io/posts/2024/2024-02-11-hello</id>
+		<title>Hello!</title>
+		<author>
+			<name>penyland</name>
+		</author>
+		<link href="https://penyland.github.io/posts/2024/2024-02-11-hello" />
+		<updated>2024-02-11T00:00:00Z</updated>
+		<content>&lt;h1 id="hello-and-welcome-to-my-blog"&gt;Hello and welcome to my blog&lt;/h1&gt;
+&lt;p&gt;My name's is Peter Nylander and I'm a software engineer and a solution architect!&lt;/p&gt;
+&lt;p&gt;I have been working with software development for over 20 years. I have worked with many different technologies and platforms, but I have always had a passion for Microsoft technologies.&lt;/p&gt;
+&lt;p&gt;On this blog I will write about my thoughts and ideas about software development and architecture.
+I will also share some of my projects and code snippets and what I have learned from on the way.&lt;/p&gt;
+&lt;p&gt;I hope you will find something interesting here and that you will come back for more!&lt;/p&gt;
+</content>
+		<summary>A tale of passion and code! And beer and heavy metal!</summary>
+	</entry>
+</feed>
